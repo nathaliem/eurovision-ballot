@@ -1,0 +1,123 @@
+{
+  "songs": [
+        {
+            "order": 1,
+            "country": "Cyprus",
+            "artist": "Tamta",
+            "song": "Replay",
+            "qualified": false
+        },
+        {
+            "order": 2,
+            "country": "Montenegro",
+            "artist": "D Mol",
+            "song": "Heaven",
+            "qualified": false
+        },
+        {
+            "order": 3,
+            "country": "Finland",
+            "artist": "Darude",
+            "song": "Look Away (feat. Sebastian Rejman)",
+            "qualified": false
+        },
+        {
+            "order": 4,
+            "country": "Poland",
+            "artist": "Tulia",
+            "song": "Fire OF Love (Pali się)",
+            "qualified": false
+        },
+        {
+            "order": 5,
+            "country": "Slovenia",
+            "artist": "Zala Kralj & Gašper Šantl",
+            "song": "Sebi",
+            "qualified": false
+        },
+        {
+            "order": 6,
+            "country": "Czech Republic",
+            "artist": "Lake Malawi",
+            "song": "Friend Of A Friend",
+            "qualified": false
+        },
+        {
+            "order": 7,
+            "country": "Hungary",
+            "artist": "Joci Pápai",
+            "song": "Az én apám",
+            "qualified": false
+        },
+        {
+            "order": 8,
+            "country": "Belarus",
+            "artist": "ZENA",
+            "song": "Like It",
+            "qualified": false
+        },
+        {
+            "order": 9,
+            "country": "Serbia",
+            "artist": "Nevena Božović",
+            "song": "Kruna",
+            "qualified": false
+        },
+        {
+            "order": 10,
+            "country": "Belgium",
+            "artist": "Eliot",
+            "song": "Wake Up",
+            "qualified": false
+        },
+        {
+            "order": 11,
+            "country": "Georgia",
+            "artist": "Oto Nemsadze",
+            "song": "Keep On Going",
+            "qualified": false
+        },
+        {
+            "order": 12,
+            "country": "Australia",
+            "artist": "Kate Miller-Heidke",
+            "song": "Zero Gravity",
+            "qualified": false
+        },
+        {
+            "order": 13,
+            "country": "Iceland",
+            "artist": "Hatari",
+            "song": "Hatriõ mun sigra",
+            "qualified": false
+        },
+        {
+            "order": 14,
+            "country": "Estonia",
+            "artist": "Victor Crone",
+            "song": "Storm",
+            "qualified": false
+        },
+        {
+            "order": 15,
+            "country": "Portugal",
+            "artist": "Conan Osiris",
+            "song": "Telemóveis",
+            "qualified": false
+        },
+        {
+            "order": 16,
+            "country": "Greece",
+            "artist": "Katerine Duska",
+            "song": "Better Love",
+            "qualified": false
+        },
+        {
+            "order": 17,
+            "country": "San Marino",
+            "artist": "Serhat",
+            "song": "Say Na Na Na",
+            "qualified": false
+        }
+    ] 
+}

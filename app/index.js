@@ -1,0 +1,1 @@
+import './js/ballot.js';
