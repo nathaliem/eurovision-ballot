@@ -1,5 +1,71 @@
-<html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Eurovision Ballot</title>
+    </head>
 <body>
+    <div class="container">
+        <h1>Eurovision Ballot</h1>
+        <p>
+            Who gets through to the final? Start guessing now!
+        </p>
+        <header class="heading">
+            <ul>
+                <li class="active">
+                    <a href="#semifinalone" class="tab-link">
+                        Semi final one
+                    </a>
+                </li>
+                <li>
+                    <a href="#semifinaltwo" class="tab-link">
+                        Semi final two
+                    </a>
+                </li>
+            </ul>
+        </header>
+        <div class="semifinal" data-file="1" id="semifinalone">
+            <article class="options">
+                <h2>Song list</h2>
+                <div>
+
+                </div>
+            </article>
+            <article class="chosen">
+                <h2>Chosen</h2>
+                <span class="placeholder">
+                    Drag your songs here!
+                </span>
+                <table>
+                    <tbody class="chosen-songs">
+                    </tbody>
+                </table>
+            </article>
+        </div>
+        <div class="semifinal hidden" data-file="2" id="semifinaltwo">
+                <article class="options">
+                    <h2>Song list</h2>
+                    <div>
+    
+                    </div>
+                </article>
+                <article class="chosen">
+                    <h2>Chosen</h2>
+                    <span class="placeholder">
+                        Drag your songs here!
+                    </span>
+                    <table>
+                        <tbody class="chosen-songs">
+                        </tbody>
+                    </table>
+                </article>
+        </div>
+        <div class="actions">
+            <button type="button" class="btn btn__reset">Reset</button>
+            <button type="button" class="btn btn__download">Download</button>
+        </div>
+    </div>
   <script src="./index.js"></script>
 </body>
 </html>
