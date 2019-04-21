@@ -8,5 +8,14 @@
     "build": "parcel build app/index.html"
   },
   "author": "Nathalie Maes",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.18.0"
+  },
+  "dependencies": {
+    "dragula": "^3.7.2",
+    "https": "^1.0.0",
+    "jspdf": "^1.5.3"
+  }
 }
