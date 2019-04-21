@@ -1,3 +1,4 @@
 dist
 app/js/config.js
 .cache
+node_modules
