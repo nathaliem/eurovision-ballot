@@ -1,0 +1,35 @@
+article {
+    width: 50%;
+
+    & + article {
+        margin-left: 5%;
+    }
+}
+
+table, tbody {
+    display: block;
+    min-height: 560px;
+}
+
+tr {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: .5;
+}
+
+.options {
+    .song {
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
+
+.semifinal {
+    display: flex;
+}

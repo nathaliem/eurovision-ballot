@@ -1,0 +1,13 @@
+@import 'dragula/dist/dragula.min.css';
+
+@import './reset';
+@import './tabs';
+@import './ballot';
+
+.hidden {
+    display: none;
+}
+
+body {
+    max-width: 90%;
+}
