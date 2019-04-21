@@ -3,6 +3,7 @@
         {
             "order": 1,
             "country": "Armenia",
+            "flag": "🇦🇲",
             "artist": "Srbuk",
             "song": "Walking Out",
             "qualified": false
@@ -10,6 +11,7 @@
         {
             "order": 2,
             "country": "Ireland",
+            "flag": "🇮🇪",
             "artist": "Sarah McTernan",
             "song": "22",
             "qualified": false
@@ -25,6 +27,7 @@
         {
             "order": 4,
             "country": "Switzerland",
+            "flag": "🇨🇭",
             "artist": "Luca Hänni",
             "song": "She Got Me",
             "qualified": false
@@ -32,6 +35,7 @@
         {
             "order": 5,
             "country": "Latvia",
+            "flag": "🇱🇻",
             "artist": "Carousel",
             "song": "That Night",
             "qualified": false
@@ -39,6 +43,7 @@
         {
             "order": 6,
             "country": "Romania",
+            "flag": "🇷🇴",
             "artist": "Ester Peony",
             "song": "On A Sunday",
             "qualified": false
@@ -46,6 +51,7 @@
         {
             "order": 7,
             "country": "Denmark",
+            "flag": "🇩🇰",
             "artist": "Leonora",
             "song": "Love Is Forever",
             "qualified": false
@@ -53,6 +59,7 @@
         {
             "order": 8,
             "country": "Sweden",
+            "flag": "🇸🇪",
             "artist": "John Lundvik",
             "song": "Too Late For Love",
             "qualified": false
@@ -60,6 +67,7 @@
         {
             "order": 9,
             "country": "Austria",
+            "flag": "🇦🇹",
             "artist": "PÆNDA",
             "song": "Limits",
             "qualified": false
@@ -67,6 +75,7 @@
         {
             "order": 10,
             "country": "Croatia",
+            "flag": "🇭🇷",
             "artist": "Roko",
             "song": "The Dream",
             "qualified": false
@@ -74,6 +83,7 @@
         {
             "order": 11,
             "country": "Malta",
+            "flag": "🇲🇹",
             "artist": "Michela",
             "song": "Chameleon",
             "qualified": false
@@ -81,6 +91,7 @@
         {
             "order": 12,
             "country": "Lithuania",
+            "flag": "🇱🇹",
             "artist": "Jurij Veklenko",
             "song": "Run With The Lions",
             "qualified": false
@@ -88,6 +99,7 @@
         {
             "order": 13,
             "country": "Russia",
+            "flag": "🇷🇺",
             "artist": "Sergey Lazarev",
             "song": "Scream",
             "qualified": false
@@ -95,6 +107,7 @@
         {
             "order": 14,
             "country": "Albania",
+            "flag": "🇦🇱",
             "artist": "Jonida Maliqi",
             "song": "Ktheju Tokës",
             "qualified": false
@@ -102,6 +115,7 @@
         {
             "order": 15,
             "country": "Norway",
+            "flag": "🇳🇴",
             "artist": "KEiiNO",
             "song": "Spirit In The Sky",
             "qualified": false
@@ -109,6 +123,7 @@
         {
             "order": 16,
             "country": "The Netherlands",
+            "flag": "🇳🇱",
             "artist": "Duncan Laurence",
             "song": "Arcade",
             "qualified": false
@@ -116,6 +131,7 @@
         {
             "order": 17,
             "country": "North Macedonia",
+            "flag": "🇲🇰",
             "artist": "Tamara Todevska",
             "song": "Proud",
             "qualified": false
@@ -123,6 +139,7 @@
         {
             "order": 18,
             "country": "Azerbaijan",
+            "flag": "🇦🇿",
             "artist": "Chingiz",
             "song": "Truth",
             "qualified": false
